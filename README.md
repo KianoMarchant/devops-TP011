@@ -15,7 +15,8 @@
 
 ## Uso
 
-Ejecutar en bash
+Ejecutar en bash:
+```bash
 # Copiar y editar variables
 cp terraform.tfvars.example terraform.tfvars
 
